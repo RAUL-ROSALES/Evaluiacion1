@@ -1,0 +1,6 @@
+C:\Users\raul__000\source\repos\Evaluacion1\Evaluacion1\bin\Debug\Evaluacion1.exe.config
+C:\Users\raul__000\source\repos\Evaluacion1\Evaluacion1\bin\Debug\Evaluacion1.exe
+C:\Users\raul__000\source\repos\Evaluacion1\Evaluacion1\bin\Debug\Evaluacion1.pdb
+C:\Users\raul__000\source\repos\Evaluacion1\Evaluacion1\obj\Debug\Evaluacion1.csprojAssemblyReference.cache
+C:\Users\raul__000\source\repos\Evaluacion1\Evaluacion1\obj\Debug\Evaluacion1.exe
+C:\Users\raul__000\source\repos\Evaluacion1\Evaluacion1\obj\Debug\Evaluacion1.pdb
